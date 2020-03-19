@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4de17800-c4bf-44cf-82e0-54664779bb9d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DBSCAN.py" beforeDir="false" afterPath="$PROJECT_DIR$/DBSCAN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k_means_clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/k_means_clustering.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +123,8 @@
       <option name="presentableId" value="Default" />
       <updated>1583571086016</updated>
       <workItem from="1583571087395" duration="15318000" />
-      <workItem from="1583696243151" duration="10195000" />
+      <workItem from="1583696243151" duration="10796000" />
+      <workItem from="1583947128691" duration="584000" />
     </task>
     <servers />
   </component>
